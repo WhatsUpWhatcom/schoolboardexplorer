@@ -46,6 +46,12 @@ The board recommends deleting the first line of section 1 of the EL-9.1 policy, 
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-22-minutes.txt)
 
+## 2024-01-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Ferndale School District held a special meeting on January 30, 2024, to discuss student results and related topics. A key focus was an update on Native Student Achievement and Participation in Programs, presented by Dr. Dominguez and various staff members.  The meeting included representatives from the Lummi Nation Education Board. The discussion emphasized the importance of authentic and vetted student support initiatives (STI) for Native students. Additionally, the board reviewed and approved a rubric outlining joint policies and procedures between the Lummi Nation Education and Ferndale School District.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-01-30-minutes.txt)
+
 ## 2024-01-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This text focuses on a school board's review of a report detailing progress towards the district's long-term facilities plan. The plan is explicitly designed to prioritize equity and align with "The Bellingham Promise," which suggests a commitment to racial equity within the district.  Board members commend the superintendent for robust community engagement in the planning process, highlighting diverse representation on the Facilities Planning Task Force. While no areas for improvement are identified, the board discusses a proposed policy change (EL-9.1) to remove the requirement that updates be presented through the consent agenda, allowing for greater flexibility in communication.

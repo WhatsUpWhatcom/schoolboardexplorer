@@ -6,6 +6,12 @@ The agenda focuses on approving personal services contracts for individuals prov
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-10-agenda.txt)
 
+## 2024-10-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Ferndale School Board convened a special session on October 3rd, 2024 to discuss legislative priorities. Nine priorities were selected, including "Academic Rigor and Equity in Public Education,"  "Amply Funded Staffing Levels," and "Full Funding of Basic Education." The board also discussed the "B/SR 3 Authority of the Superintendent," focusing on the process for approving interlocal contracts and communication clarity between the Board and Superintendent. Additionally, they reviewed the "GC-7 Ferndale School Board Social Contract" and considered scheduling additional meetings.  The text notes that Antonio Machado joined the meeting late. The discussion also touched upon the need for clearer communication channels from the superintendent's office to the board.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-03-minutes.txt)
+
 ## 2024-09-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
 The agenda includes two action items related to personal services contracts. Laura Brown will develop, review, and update service plans for private school students from August 29, 2024, through June 27, 2025. Stefanie Weis will assist payroll with new hire benefit enrollments from September 24, 2024, through August 2025.  The agenda also includes an informational item regarding the updated GP-7.2, 2024-25 annual board agenda, which highlights changes from the previous version.

@@ -18,6 +18,12 @@ The Lynden School District #504 Board Meeting agenda outlines a range of topics 
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-agenda.txt)
 
+## 2024-07-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting addressed several routine matters and policy updates.  The board approved a consent agenda covering items such as the review of the Board of Directors' Budget and the receipt of revised policies. These included Policy 2140 Comprehensive School Counseling Program, Policy 2145 Suicide Prevention, and Policy 3245 Students and Telecommunication Devices.  Specific changes made to these policies were not detailed in the provided text. During the sharing portion of the meeting, board members highlighted the importance of teachers and community support for schools. The board also conducted a meeting evaluation, with Mr. Machado providing an overall rating of 4.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-07-30-minutes.txt)
+
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This excerpt from school board meeting minutes focuses on a report regarding student academic performance and the district's efforts to address learning loss stemming from the COVID-19 pandemic. Board members commend the progress made in math and science, particularly in comparison to other districts. They acknowledge that while improvements are evident, further progress is needed to fully recover from the pandemic's impact on student learning. The discussion highlights the district's commitment to closing proficiency gaps and its ongoing efforts to support teachers through professional development and curriculum adoption.  There is a positive sentiment towards the district's focus on racial equity and addressing achievement disparities.

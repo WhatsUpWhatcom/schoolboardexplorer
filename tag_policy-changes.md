@@ -36,6 +36,32 @@ The Lynden School District #504 Board Meeting agenda focuses on several key topi
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-agenda.txt)
 
+## 2024-10-03 - FERNDALE_SCHOOL_DISTRICT (Agenda)
+
+This document outlines the ethical guidelines and operational procedures for a school board. It emphasizes principles like active listening, shared responsibility, informed decision-making, and mutual support among board members.  The document also details a process for handling disagreements, advocating for respectful dialogue and compromise. 
+
+The agenda excerpt reveals upcoming discussions on "School Linkages" and the review of "monitoring report indicators." The specific content of these discussions is not provided, but they suggest a focus on evaluating existing programs and identifying areas for improvement within the school district.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-03-agenda.txt)
+
+## 2024-10-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Ferndale School Board convened a special session on October 3rd, 2024 to discuss legislative priorities. Nine priorities were selected, including "Academic Rigor and Equity in Public Education,"  "Amply Funded Staffing Levels," and "Full Funding of Basic Education." The board also discussed the "B/SR 3 Authority of the Superintendent," focusing on the process for approving interlocal contracts and communication clarity between the Board and Superintendent. Additionally, they reviewed the "GC-7 Ferndale School Board Social Contract" and considered scheduling additional meetings.  The text notes that Antonio Machado joined the meeting late. The discussion also touched upon the need for clearer communication channels from the superintendent's office to the board.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-03-minutes.txt)
+
+## 2024-09-24 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting minutes detail several policy changes and approvals.  Resolution 18-2024 adopts Policy 4040R regarding Public Access to School District Records. Policy 6220, Bid or Request for Proposal Requirements, was revised and received approval. A new policy, 6221 - Small Works Roster - Direct Contracting Rotation, was also received and approved. The board also discussed the effectiveness of communication with the board as detailed in a monitoring report for Operational Expectations 8 (OE-8). During the sharing portion of the meeting, individual board members commented on various topics including a new cell phone policy and the process for contract approvals.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-09-24-minutes.txt)
+
+## 2024-08-27 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The meeting minutes detail the approval of a consent agenda covering routine matters such as accepting financial statements and adopting board member training policy. Notably, the board adopted Policy 1822 - Training and Development for Board Members.  The minutes also reflect on a "reset" opportunity mentioned by Mr. Machado, an apology from Mrs. Button regarding a rescheduled board retreat, and observations shared by Ms. Uppiano about her recent professional development experiences and visit to another school board meeting. The meeting concluded with positive feedback from Mrs. Button who rated it as "great" and "very productive."
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-08-27-minutes.txt)
+
 ## 2024-08-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The meeting minutes detail the Bellingham School Board's approval of several inter-agency agreements and personnel recommendations. Notably, the board discussed a budget deficit attributed to insufficient state funding.  Board members also shared updates on community engagement efforts, including discussions about the district budget with community members.  The board president assessed the meeting as commendable.
@@ -53,6 +79,12 @@ The Lynden School District #504 Board Meeting agenda outlines a range of topics 
 The school board discussed amending Policy 3211/P, which likely pertains to student participation in extracurricular activities.  The discussion centered around aligning the district's policy with current Washington Interscholastic Activities Association (WIAA) guidelines that allow students to participate in athletics according to their gender identity. Director Brar led the conversation and shared updates on WIAA's amendment process, noting that a supermajority vote of participating districts is required for changes. Superintendent VanderYacht reported ongoing collaboration with other Superintendents on proposed amended language.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-minutes.txt)
+
+## 2024-07-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting addressed several routine matters and policy updates.  The board approved a consent agenda covering items such as the review of the Board of Directors' Budget and the receipt of revised policies. These included Policy 2140 Comprehensive School Counseling Program, Policy 2145 Suicide Prevention, and Policy 3245 Students and Telecommunication Devices.  Specific changes made to these policies were not detailed in the provided text. During the sharing portion of the meeting, board members highlighted the importance of teachers and community support for schools. The board also conducted a meeting evaluation, with Mr. Machado providing an overall rating of 4.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-07-30-minutes.txt)
 
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
@@ -79,6 +111,18 @@ The Lynden School District #504 Board will hold a special meeting on July 8th, 2
 The Lynden School District #504 Board of Directors held an executive session on July 8th, 2024, to discuss potential litigation with legal counsel.  The session, initially scheduled for 45 minutes, was extended multiple times, ultimately concluding at 8:25 pm. The nature of the potential litigation was not disclosed in the meeting minutes.  This suggests a possible policy change or decision made by the school board that is being challenged legally.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-08-minutes.txt)
+
+## 2024-06-26 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Mountainview Learning Center School Board held a special meeting on June 26, 2024.  The board adopted Resolution No. 12-2024, which concerns the adoption of the 2024-25 budget. The meeting was called to order at 6:01 PM and adjourned at 6:04 PM.  Three members were present (Kevin Erickson, Peggy Uppiano, Antonio Machado) and two were excused (Nancy Button, Steve Childs).
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-26-minutes.txt)
+
+## 2024-06-25 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Mountainview Learning Center School Board held a special meeting on June 25th, 2024, at 5:45 pm.  The meeting's primary purpose was to hold a public hearing regarding the proposed 2024-2025 District Budget. The agenda included items for convening the meeting, adopting the agenda, receiving public comment on the budget, and adjourning the meeting. No public comments were received during the designated time. The meeting concluded at 6:00 pm.  The text indicates that Nancy Button was excused from the meeting.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-25-minutes.txt)
 
 ## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -109,6 +153,12 @@ The Lynden School District Board meeting agenda focuses on several key areas.  T
 The Lynden School Board meeting minutes detail various agenda items and decisions made. Notably, the board approved Ashley Acton, a student from Lynden High School, as the 24/25 Student Board Representative. They also reviewed and approved the district's four-year Career & Technical Education (CTE) plan. Policy 2255 regarding Alternative Learning Experience Courses was updated and approved. Additionally, the board approved a lease amendment with Inspire Development Center and Resolution #08-24 advocating for local control and opposing unfunded mandates from the Washington State School Directors' Association (WSSDA).
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-06-minutes.txt)
+
+## 2024-05-28 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting addressed several policy revisions related to high school graduation requirements.  Revised Policy 2410 focuses on High School Graduation Requirements, while Revised Policy 2418 addresses the Waiver of High School Graduation Credits. Additionally, Revised Policy 2255 pertains to Alternative Learning Experience Courses. Resolution 2418R, which aimed to approve a waiver for high school graduation credits, was removed from the agenda and scheduled for discussion at the June 28th meeting. During the "Sharing" portion, board members discussed various topics, including visits to CTE events and a request for a future discussion on cell phone use in schools. The meeting concluded with an adjournment motion carried unanimously by all board members present.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-28-minutes.txt)
 
 ## 2024-05-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
@@ -145,6 +195,12 @@ The meeting emphasized community engagement, with a section dedicated to informa
 The Lynden School Board meeting minutes detail several policy changes and actions taken.  The board voted to approve updated Policy 2124 - Equivalency Credit Opportunities as amended. They also approved an amendment to Policy 2413, striking the phrase "to ensure cultural responsiveness and equity in awarding mastery-based credit" from the first sentence of the last paragraph in the section titled “Mastery/Competency-based credits”.  The reasoning behind this change is not explicitly stated in the minutes. The board then voted to adopt Policy 2413 as amended. Other actions taken included approving an Interlocal Agreement with Whatcom County Detention Center for 2024/2025 and approving Resolution #06-24 - WIAA Membership Renewal for the 2024/2025 school year. The board also authorized its legislative committee to revise and submit revisions on the “Local Control” proposal to WSSDA.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-02-minutes.txt)
+
+## 2024-04-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+This document outlines the minutes from a school board meeting. Several routine matters were addressed via a consent agenda, including authorizing vouchers and approving the superintendent's consent agenda. The board also reviewed the budget and received a monitoring report for Results Policy 5 (R-5) Early Childhood Readiness.  Legislative updates were provided by Ms. Button, and board members shared information during a designated "Sharing" period. Dr. Erickson evaluated the meeting and encouraged directors to complete monitoring report surveys. An executive session was held to discuss real estate matters. Finally, the meeting adjourned at 8:57 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-04-30-minutes.txt)
 
 ## 2024-04-18 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
@@ -209,6 +265,12 @@ The March 14, 2024 school board meeting agenda focuses on reviewing the superint
 The school board meeting minutes detail several actions taken regarding student safety and well-being.  Policy 3411, "Accommodating Students with Seizure Disorders or Epilepsy," was adopted to provide support for students experiencing seizures.  The board also approved an overnight trip request for students to participate in the Knowledge Bowl, demonstrating a commitment to extracurricular activities.  Additionally, Resolution #03-24 addressed food service meal balances as of June 30, 2023. The Board Facilities Committee discussed placing a bond on the August ballot and updating cost estimates for potential projects, highlighting ongoing efforts to improve school infrastructure. Finally, the Board Finance Committee shared information about a recent audit exit conference with no findings for non-compliance, indicating sound financial practices.  The board also received updates on legislative matters, including the passage of SB5462 and HB2331, as well as Initiative 2081 regarding parent rights.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-07-minutes.txt)
+
+## 2024-02-27 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting minutes detail the approval of a new Technology Policy (5225).  The board also received and approved a monitoring report for Result Policy (R-1) Mission.  Discussion centered around proposed legislative resolutions opposing HB2331 and SB5462, with the board requesting additional time to understand the legislation's potential impact on the district. Dr. Dominguez will consult legal counsel regarding this matter. Board members shared appreciations and celebrated student achievements, including the Math Olympiad and the musical "Anastacia". A suggestion was made to implement a system for tracking action items, contracts, minutes, and grants. The meeting concluded at 9:43 pm.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-02-27-minutes.txt)
 
 ## 2024-02-22 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 

@@ -24,6 +24,12 @@ The Lynden School District #504 Board meeting agenda focuses on several key topi
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-agenda.txt)
 
+## 2024-06-11 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Mountainview Learning Center School Board held a meeting on June 11, 2024, to discuss the District 2024 budget.  The budget presentation highlighted the alignment of financial priorities with the new Strategic Plan's Focuses and Foundations. These focuses included Safety and Belonging, Early Learning (Birth - Grade 3), Mastery of Standards, and Future Ready. The Foundations outlined key operational principles such as Engaging and Effective Teaching and Learning Systems, Authentic and Meaningful Engagement with Students, Family and Community, Advancing Excellence: Strategic Operations and Resource Management, and Dynamic Systems for Hiring and Retention.  The meeting also included a brief Executive Session to discuss a real estate matter.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-11-minutes.txt)
+
 ## 2024-05-16 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
 The Lynden School Board meeting agenda focuses on several key areas.  The board will discuss first and second readings of updated policies. Policy 2255, Alternative Learning Experience Courses, is undergoing a first reading. A second reading will be held for Policy 6905, Site Acquisition. The board will also consider two Interlocal Cooperative Agreements: one with Whatcom County Behavioral Health for the 24/25 school year and another with Whatcom Discovery for the same period. Resolution #07-24 addresses Surplus Personal Property.  The election of a WIAA representative is also on the agenda.
@@ -37,6 +43,12 @@ Parental feedback and community engagement are highlighted as important topics, 
 The school board meeting minutes detail discussions on various topics including student behavior and mental health.  The board noted that 91% of behavioral referrals involved three or fewer instances, indicating the effectiveness of early intervention strategies. Additionally, they approved an interlocal agreement with Whatcom County for Behavioral Health Services Support for the 2024-2025 academic year. The board also reviewed and approved a revised Policy 6905 regarding Site Acquisition.  The minutes further document the election of Director Brar as the WIAA representative and the approval of interlocal agreements with Whatcom Discovery. Finally, Resolution #07-24 concerning Surplus Personal Property was passed.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-16-minutes.txt)
+
+## 2024-05-16 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Ferndale School Board held a meeting on May 16, 2024, to discuss Harassment, Intimidation and Bullying (HIB) and the school board budget for 2024-25.  A panel consisting of Dr. Chris Cochran (Director of Behavioral Health), James Walsh (Dean at Cascadia Elementary), Dawn Christiana (Principal at Cascadia Elementary), Ben Goodwin (Assistant Principal at High School), and Julia Besola (Assistant Principal at Vista Middle School) provided information on HIB prevention strategies. Holly Graham, the Finance Manager, presented the proposed budget which was developed collaboratively by the school board directors. The meeting adjourned at 7:35 PM.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-16-minutes.txt)
 
 ## 2024-05-02 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 

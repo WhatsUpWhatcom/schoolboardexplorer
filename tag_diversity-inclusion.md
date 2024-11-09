@@ -98,6 +98,12 @@ Key themes that emerged included the need for safe spaces like GSA, concerns abo
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
 
+## 2024-01-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Ferndale School District held a special meeting on January 30, 2024, to discuss student results and related topics. A key focus was an update on Native Student Achievement and Participation in Programs, presented by Dr. Dominguez and various staff members.  The meeting included representatives from the Lummi Nation Education Board. The discussion emphasized the importance of authentic and vetted student support initiatives (STI) for Native students. Additionally, the board reviewed and approved a rubric outlining joint policies and procedures between the Lummi Nation Education and Ferndale School District.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-01-30-minutes.txt)
+
 ## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
 The Lynden School District #504 Board meeting agenda focuses on several key items related to diversity and inclusion.  The board will conduct first readings of two new policies: Policy 5010 - Nondiscrimination and Policy 5161 - Civility in the Workplace. A second reading is scheduled for Policy 2090 - Program Evaluation. The meeting also includes presentations on School Improvement Plans from Lynden High School, Lynden Middle School, and Isom Elementary.  Additionally, a presentation will be given on the Nondiscrimination in Hiring Plan. The board will vote on the approval of both the School Improvement Plans and the Nondiscrimination in Hiring Plan. Finally, a board workshop will discuss a class action lawsuit regarding social media.

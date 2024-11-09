@@ -6,6 +6,14 @@ The Lynden School District #504 Board Meeting agenda focuses on several key topi
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-agenda.txt)
 
+## 2024-10-03 - FERNDALE_SCHOOL_DISTRICT (Agenda)
+
+This document outlines the ethical guidelines and operational procedures for a school board. It emphasizes principles like active listening, shared responsibility, informed decision-making, and mutual support among board members.  The document also details a process for handling disagreements, advocating for respectful dialogue and compromise. 
+
+The agenda excerpt reveals upcoming discussions on "School Linkages" and the review of "monitoring report indicators." The specific content of these discussions is not provided, but they suggest a focus on evaluating existing programs and identifying areas for improvement within the school district.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-03-agenda.txt)
+
 ## 2024-10-01 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
 The Bellingham Public Schools Board of Directors will be visiting Happy Valley Elementary School on October 1, 2024, at 7:30 a.m.  The purpose of this visit is to observe how the school is implementing "The Bellingham Promise," which focuses on delivering quality education and support to students. This event is not a regular school board meeting and will not include public comment time. The visit aims to foster community engagement by allowing board members to directly experience the educational environment at Happy Valley Elementary School.
@@ -41,6 +49,12 @@ The meeting minutes detail the Bellingham School Board's approval of several int
 The Lynden School District #504 Board Meeting agenda outlines a range of topics focusing on academic and operational matters.  The board will discuss and potentially vote on the adoption of the 2024-2025 budget (Resolution #10-24). They will also consider approval for 2024-2025 Interscholastic Activities and the Highly Capable Program. An interlocal agreement with the Meridian School District regarding transportation services is also on the agenda for potential approval. The meeting includes time for public comment, information from the audience, and reports from the Superintendent, Teaching & Learning department, and Finance & Operations. A board workshop focusing on "Gender Inclusive Schools" will take place after regular agenda items are addressed.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-agenda.txt)
+
+## 2024-07-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting addressed several routine matters and policy updates.  The board approved a consent agenda covering items such as the review of the Board of Directors' Budget and the receipt of revised policies. These included Policy 2140 Comprehensive School Counseling Program, Policy 2145 Suicide Prevention, and Policy 3245 Students and Telecommunication Devices.  Specific changes made to these policies were not detailed in the provided text. During the sharing portion of the meeting, board members highlighted the importance of teachers and community support for schools. The board also conducted a meeting evaluation, with Mr. Machado providing an overall rating of 4.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-07-30-minutes.txt)
 
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -177,6 +191,12 @@ The Bellingham School Board will hold a special meeting on March 26, 2024, from 
 The Bellingham School District Board of Directors held a community linkage meeting focused on gathering feedback about Career and Technical Education (CTE) programs.  The meeting aimed to understand the strengths and areas for improvement within the CTE offerings, aligning them with the district's long-term strategic plan, "The Bellingham Promise." Parents, students, community members, and school staff participated in discussions, highlighting the value of hands-on learning, strong tech offerings, and diverse pathways. Suggestions for improvement included expanding agriculture programs, strengthening connections with local industries, particularly in healthcare, and exploring opportunities for grant writing to enhance CTE resources. The board expressed appreciation for the valuable input received, emphasizing its commitment to representing community needs and expectations.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-26-minutes.txt)
+
+## 2024-03-26 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting addressed several routine matters through a consent agenda process. This included approving the Board of Directors' budget and receiving monitoring reports for Operational Expectations Policy 11 (OE-11) regarding Facilities and Operational Expectations Policy 12 (OE-12) concerning Safety.  The board also received legislative updates from Ms. Button on the Washington State School Directors' Association (WSSDA) and discussed WSSDA position proposals. Board members shared reflections on their progress, with Mr. Childs expressing appreciation for the board, Mr. Machado supporting teachers, and Ms. Uppiano focusing on improving math scores. Dr. Erickson encouraged directors to participate in the WSSDA New Director monthly meeting. The meeting concluded with a student evaluation at 10:12 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-03-26-minutes.txt)
 
 ## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

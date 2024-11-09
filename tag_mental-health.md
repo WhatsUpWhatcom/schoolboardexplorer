@@ -18,6 +18,12 @@ The Bellingham School Board meeting minutes highlight several key topics.  The b
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-09-12-minutes.txt)
 
+## 2024-07-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting addressed several routine matters and policy updates.  The board approved a consent agenda covering items such as the review of the Board of Directors' Budget and the receipt of revised policies. These included Policy 2140 Comprehensive School Counseling Program, Policy 2145 Suicide Prevention, and Policy 3245 Students and Telecommunication Devices.  Specific changes made to these policies were not detailed in the provided text. During the sharing portion of the meeting, board members highlighted the importance of teachers and community support for schools. The board also conducted a meeting evaluation, with Mr. Machado providing an overall rating of 4.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-07-30-minutes.txt)
+
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document is a school board monitoring response to a report on the district's progress towards its Ends policies. The board commends the district for its success in several areas, including the Latinos in Action program, principled behavior at Northern Heights High School, and growth in reading scores based on i-Ready data. They also highlight the positive impact of compacted math options and online learning tools.
@@ -32,6 +38,12 @@ The Bellingham Public Schools board meeting minutes highlight the district's com
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-minutes.txt)
 
+## 2024-05-28 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting addressed several policy revisions related to high school graduation requirements.  Revised Policy 2410 focuses on High School Graduation Requirements, while Revised Policy 2418 addresses the Waiver of High School Graduation Credits. Additionally, Revised Policy 2255 pertains to Alternative Learning Experience Courses. Resolution 2418R, which aimed to approve a waiver for high school graduation credits, was removed from the agenda and scheduled for discussion at the June 28th meeting. During the "Sharing" portion, board members discussed various topics, including visits to CTE events and a request for a future discussion on cell phone use in schools. The meeting concluded with an adjournment motion carried unanimously by all board members present.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-28-minutes.txt)
+
 ## 2024-05-16 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
 The Lynden School Board meeting agenda focuses on several key areas.  The board will discuss first and second readings of updated policies. Policy 2255, Alternative Learning Experience Courses, is undergoing a first reading. A second reading will be held for Policy 6905, Site Acquisition. The board will also consider two Interlocal Cooperative Agreements: one with Whatcom County Behavioral Health for the 24/25 school year and another with Whatcom Discovery for the same period. Resolution #07-24 addresses Surplus Personal Property.  The election of a WIAA representative is also on the agenda.
@@ -45,6 +57,12 @@ Parental feedback and community engagement are highlighted as important topics, 
 The school board meeting minutes detail discussions on various topics including student behavior and mental health.  The board noted that 91% of behavioral referrals involved three or fewer instances, indicating the effectiveness of early intervention strategies. Additionally, they approved an interlocal agreement with Whatcom County for Behavioral Health Services Support for the 2024-2025 academic year. The board also reviewed and approved a revised Policy 6905 regarding Site Acquisition.  The minutes further document the election of Director Brar as the WIAA representative and the approval of interlocal agreements with Whatcom Discovery. Finally, Resolution #07-24 concerning Surplus Personal Property was passed.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-16-minutes.txt)
+
+## 2024-05-16 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Ferndale School Board held a meeting on May 16, 2024, to discuss Harassment, Intimidation and Bullying (HIB) and the school board budget for 2024-25.  A panel consisting of Dr. Chris Cochran (Director of Behavioral Health), James Walsh (Dean at Cascadia Elementary), Dawn Christiana (Principal at Cascadia Elementary), Ben Goodwin (Assistant Principal at High School), and Julia Besola (Assistant Principal at Vista Middle School) provided information on HIB prevention strategies. Holly Graham, the Finance Manager, presented the proposed budget which was developed collaboratively by the school board directors. The meeting adjourned at 7:35 PM.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-16-minutes.txt)
 
 ## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
