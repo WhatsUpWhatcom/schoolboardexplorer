@@ -9,5 +9,5 @@ The meeting also included a discussion on potential policy changes driven by par
 
 Further, the minutes document requests from students for greater autonomy regarding mask-wearing and highlight concerns about the impact of masks on breathing.  The meeting also included discussion about lunch times and recess rules at elementary schools and Lynden Middle School (LMS).
 
-[View Full Text](data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022-02-10-minutes.md)
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022-02-10-minutes.txt)
 
