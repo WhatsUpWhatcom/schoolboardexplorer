@@ -2,21 +2,19 @@
 
 ## 2024-10-12 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
-The Lynden School District #504 is holding a special meeting on October 12th, 2024, at the Inn at Lynden to discuss strategic priorities and key performance indicators.  The meeting will focus on multilingual language proficiency growth as part of their goal to ensure all students graduate college, career, and citizenship ready. The agenda also includes discussions on board development and effective governance, including the purpose and mission of the board and its operating principles. Additionally, the board will review the long-range capital facilities plan during the meeting.
+The Lynden School District #504 held a special meeting on October 12, 2024, at the Inn at Lynden.  The agenda focused on strategic priorities and key performance indicators, with a specific emphasis on multilingual language proficiency growth. Additionally, the board discussed topics related to board development and effective governance, including the purpose and mission of the board and its operating principles. The meeting also included a session on capital facilities planning, outlining the district's long-range plan for facility improvements.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-agenda.txt)
 
 ## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
-The Lynden School District #504 Board is holding a retreat on April 13, 2024, to discuss several key topics.  The agenda focuses on improving student outcomes by reviewing Key Performance Indicators and engaging in strategic planning processes. A specific time slot is dedicated to discussing the Agenda Development Process, suggesting a commitment to transparency in decision-making. The overarching goal of the district, as stated in their mission, is to ensure that all students graduate college, career, and citizenship ready.
+The Lynden School District #504 Board is holding a retreat on April 13, 2024, to discuss several key topics.  The board will review their governance and development processes, analyze student outcome data through Key Performance Indicators (KPIs), and work on developing long-term strategic plans for the district. Additionally, they will address the process for developing future agendas and aim to foster stronger community engagement.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-agenda.txt)
 
 ## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 Board of Directors met on April 13, 2024, to discuss various topics related to district governance and student outcomes.  The board reviewed the results of a self-assessment conducted by the Washington State School Directors' Association (WSSDA) and discussed ways to improve responsible governance and effective leadership. They also reviewed data on Key Performance Indicators, including 3rd Grade Reading, Multilingual Learner Language Proficiency Progress, Attendance, 9th Grade Success, Graduation Rates, and Parent Climate Surveys.  
-
-The board engaged in discussions regarding the strategic planning process and a timeline for updating the district's Strategic Plan and Priorities. Additionally, they reviewed the process for developing board meeting agendas, referencing the board handbook and Policy 1220. The meeting concluded with an adjournment at 12:40 pm.
+The Lynden School District Board of Directors met on April 13, 2024 to discuss various topics related to district operations and student outcomes.  The board reviewed data on Key Performance Indicators including 3rd Grade Reading, Multilingual Learner Language Proficiency Progress, Attendance, 9th Grade Success, Graduation Rates, and Parent Climate Surveys. They also discussed the strategic planning process and timeline for updating the district's Strategic Plan and Priorities. Additionally, the board reviewed the results of a self-assessment conducted by WSSDA (Washington State School Directors' Association) and discussed ways to improve responsible governance and effective board leadership. Finally, the board discussed the process for developing board meeting agendas and reviewed relevant policies.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-minutes.txt)
 
@@ -25,6 +23,14 @@ The board engaged in discussions regarding the strategic planning process and a 
 The Bellingham School District Board of Directors held a community linkage meeting focused on gathering feedback about Career and Technical Education (CTE) programs.  The meeting aimed to understand the strengths and areas for improvement within the CTE offerings, aligning them with the district's long-term strategic plan, "The Bellingham Promise." Parents, students, community members, and school staff participated in discussions, highlighting the value of hands-on learning, strong tech offerings, and diverse pathways. Suggestions for improvement included expanding agriculture programs, strengthening connections with local industries, particularly in healthcare, and exploring opportunities for grant writing to enhance CTE resources. The board expressed appreciation for the valuable input received, emphasizing its commitment to representing community needs and expectations.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-26-minutes.txt)
+
+## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+
+The Lynden School District Board meeting minutes detail discussions on various topics. A mental health update was presented, covering the role of the Mental Health Coordinator, a summary of the Healthy Youth Survey, and the Gaggle electronic safety management system. Concerns regarding school safety at Lynden High School (LHS), particularly the numerous points of entry, were raised by a community member.
+
+The board reviewed updated academic standards reflected in Policy 5005- Employment and Volunteers, which was approved. Discussions also centered around long-term strategic plans, including capital facilities planning and the possibility of putting a bond back out to vote. The board aimed to finalize a timeline for the bond resolution by their April 18th meeting. Community engagement was evident through presentations from representatives of Schooley Mitchell and discussions regarding retiree celebrations initiated by a board member.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-21-minutes.txt)
 
 ## 2024-02-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -36,23 +42,23 @@ The board recommends deleting the first line of section 1 of the EL-9.1 policy, 
 
 ## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions on various topics related to school governance and policy.  The board discussed upcoming legislation (SB 2494) that would increase state funding, with some members expressing interest in providing written testimony. They also emphasized the importance of community engagement and encouraged attendance at a town hall meeting with local legislators.
-
-Further discussion centered around board meeting logistics and communication protocols. The board considered adopting new or updated policies, prioritizing content clarity over writing conventions during initial readings.  They also deliberated on incorporating specific details and action items suggested by individual directors into meeting minutes.
-
-The Superintendent highlighted several post-Bond Planning Task Force needs requiring board action, including pursuing Impact Fees, updating the long-range capital facilities plan, addressing playground and technology needs at Lynden Academy, ensuring appropriately rated playground equipment for early learning, and exploring construction delivery methods. Finally, the board expressed interest in revisiting Key Performance Indicators in greater depth and discussed the legalities of individual board members expressing personal opinions on social media regarding ballot initiatives and legislative bills.
+The school board meeting minutes detail discussions on various topics, including legislative advocacy, board meeting logistics and communication improvements. Director Hickman emphasized the importance of community engagement regarding local control bills and shared information about an upcoming town hall meeting with local legislators. Superintendent VanderYacht highlighted the need for transparency in discussing board positions on specific bills and suggested focusing on policy content before addressing writing conventions. The board also discussed incorporating particular details and action items into meeting minutes, following Robert's Rules of Order.  Additional topics included post-Bond Planning Task Force needs such as impact fees, playground and technology upgrades, and construction delivery methods. The board expressed interest in revisiting Key Performance Indicators in greater depth and discussed the legalities of individual board members expressing personal opinions on social media regarding ballot initiatives and legislative bills.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-minutes.txt)
 
 ## 2024-02-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail a collaborative session between the board and city officials to discuss various community projects and safety initiatives.  The discussion centered around ongoing and planned infrastructure developments, including street improvements, park expansions (Benson Park, Dickinson Park), and trail construction (Jim Kaemingk Trail). Notably, the group addressed interagency emergency planning and response protocols, highlighting the district's adoption of the "I Love You Guys" program for school safety.  The meeting concluded with a commitment to annual joint meetings between the board and city personnel, reflecting a strong emphasis on community engagement and long-term strategic planning for shared resources and development.
+The meeting minutes detail various community development projects and infrastructure improvements planned or underway in the city. These include street and sidewalk upgrades, a roundabout construction at Benson Rd/Badger Rd intersection, and the development of Benson Park with restoration of the Heusinkvelt Barn.  The Jim Kaemingk Trail is also under development.
+
+The discussion also touched upon interagency emergency planning and response, highlighting the school district's Safety & Security Task Force implementation of the "I Love You Guys" emergency planning program. Collaboration with local law enforcement agencies for emergency response planning was suggested. The city and school board expressed interest in annual meetings to foster ongoing communication and collaboration.
+
+Additionally, potential uses for Benson Park were discussed, including a proposal from Brent DeRuyter to develop it as a regional park site.  The possibility of a splash park and an outdoor pavilion at Glenning Park to support performing arts were also mentioned.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-08-minutes.txt)
 
 ## 2024-02-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 Board of Directors held a special meeting on February 3rd, 2024, to discuss various operational and strategic matters.  The board engaged in team building activities and addressed logistical aspects of meetings, including agenda setting and policy review. Discussions centered around enhancing communication transparency with the community and aligning individual director interests with district goals. The board also deliberated on legislative engagement strategies, emphasizing advocacy for local control. A significant portion of the meeting focused on defining district priorities and establishing a framework for strategic planning, encompassing standards, measures, and goal setting.
+The Lynden School District #504 Board of Directors held a special meeting on February 3rd, 2024.  The meeting focused on team building exercises and establishing procedures for board meetings, including agenda item submission and policy review. Discussions also centered around legislative engagement, specifically advocating for local control in education. The board addressed district priorities and governance, touching upon standards, measures, goals, and the strategic planning process. No specific policies were mentioned by name during this meeting.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-03-minutes.txt)
 
@@ -131,6 +137,20 @@ The Lynden School District Board of Directors held a joint meeting with the Lynd
 The Lynden School District Board held a retreat on December 14, 2016, to conduct annual organizational tasks and begin discussions on long-term strategic planning.  The board elected Brian Johnson as President, Steve Jilk as Vice President, and Kevin Burke as the WIAA Representative. These elections reflect standard procedural policy changes that occur annually within school boards. The meeting also initiated a conversation regarding the formulation of the Lynden School District Strategic Plan, which will outline the district's vision, mission, and goals.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-12-14-minutes.txt)
+
+## 2013-08-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board met in a special session on August 8, 2013, to discuss various agenda items for the upcoming school year. Notably, they expressed a desire to hold study sessions on topics related to diversity and inclusion, including the ACE (Adverse Childhood Experiences) Study, the Teacher/Principal Evaluation Project (TPEP), Common Core standards, and Ends 2.1 and 3.  The board also planned linkage meetings focused on supporting diverse student populations, specifically mentioning Special Education, English Language Learners (ELL), and LGBTQ students.
+
+Further demonstrating a commitment to community engagement, the board discussed ways to enhance technology at board meetings for better communication with attendees and reviewed preferred methods of receiving routine and urgent messages. They also deliberated on the Superintendent's evaluation, incorporating specific strategic initiatives into the process.  Finally, the board addressed policy changes related to communications and calendaring (GP 8.1.3) and considered continuing with BoardDocs Pro for document management in the 2013-14 school year.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-08-08-minutes.txt)
+
+## 2013-05-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes highlight several key areas of focus.  The board discussed the growth and inclusivity of Advanced Placement programs at Squalicum High School, receiving positive feedback from both visiting teachers and student tour guides. Additionally, Scott Stockburger reported on his visit to Sehome High School, praising innovative efforts like anchor homerooms and student mentorship programs. Superintendent Greg Baker provided updates on statewide testing, ongoing staffing processes for the 2013-14 school year, and the district's budget process, noting positive community feedback.  Discussions regarding facilities planning for Parkview Elementary School and the potential inclusion of the Gordon Carter Environmental Site in an upcoming bond were also mentioned. The board emphasized the importance of community engagement and parental feedback throughout these processes.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-05-23-minutes.txt)
 
 ## 2013-01-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

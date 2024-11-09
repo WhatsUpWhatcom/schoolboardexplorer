@@ -6,6 +6,12 @@ The Bellingham School Board reviewed a report on student outcomes, focusing on g
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
 
+## 2013-06-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District is considering a bond proposal to fund several facility improvements. These include updating the District Office and Transportation Facility, building a central kitchen for healthier meals, and funding outdoor learning experiences at the Gordon Carter Environmental Education Conservation Site.  The proposed bond would result in an estimated tax rate increase of 48 cents per $1,000 assessed value. The district also plans to refinance existing bonds to save taxpayers money. The school board discussed the bond proposal and its potential impact on the community during a meeting on June 13, 2013.  The bond resolution will be prepared for the next meeting on June 27, 2013.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-06-13-minutes.txt)
+
 ## 2012-10-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board reviewed a report on student progress towards the district's strategic plan, "The Bellingham Promise."  The report focused on academic achievement and student competence, using data to inform the Department of Teaching and Learning's work. Board members requested additional data points, such as ELL student proficiency rates and AP exam performance, highlighting their interest in curriculum transparency and a deeper understanding of student outcomes. The board also discussed revising governance policies and extending the time allotted for community linkages to encourage greater parental feedback and participation.  Finally, the board reviewed upcoming events, including a linkage with the Cordata Neighborhood Association and visits to Sehome High School.

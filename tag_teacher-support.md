@@ -12,6 +12,12 @@ The agenda includes two action items related to personal services contracts. Lau
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-09-12-agenda.txt)
 
+## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board Meeting agenda outlines a range of topics focusing on academic and operational matters.  The board will discuss and potentially vote on the adoption of the 2024-2025 budget (Resolution #10-24). They will also consider approval for 2024-2025 Interscholastic Activities and the Highly Capable Program. An interlocal agreement with the Meridian School District regarding transportation services is also on the agenda for potential approval. The meeting includes time for public comment, information from the audience, and reports from the Superintendent, Teaching & Learning department, and Finance & Operations. A board workshop focusing on "Gender Inclusive Schools" will take place after regular agenda items are addressed.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-agenda.txt)
+
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This excerpt from school board meeting minutes focuses on a report regarding student academic performance and the district's efforts to address learning loss stemming from the COVID-19 pandemic. Board members commend the progress made in math and science, particularly in comparison to other districts. They acknowledge that while improvements are evident, further progress is needed to fully recover from the pandemic's impact on student learning. The discussion highlights the district's commitment to closing proficiency gaps and its ongoing efforts to support teachers through professional development and curriculum adoption.  There is a positive sentiment towards the district's focus on racial equity and addressing achievement disparities.
@@ -67,6 +73,32 @@ The Lynden School District Board held a work session on February 25, 2016, to di
 This document details personnel changes within a school district. It lists new hires, including Lydia Faber as a bus driver and Kyle Hanson as a paraeducator.  It also notes a change in assignment for Kelly Boies, who transitions to a paraeducator role at Isom. The document highlights leaves of absence for Kristine Carson (teacher) and an unnamed individual (classified personnel). Additionally, it records resignations/retirements/terminations, including Lisa McKeen's resignation as assistant principal at LHS and Robert Carson's retirement as a teacher at LHS.  Finally, the document mentions supplemental assignments, with Erin Clemmer replacing Medcalf as the 7th Grade Volleyball Coach at LMS. The overall sentiment suggests routine personnel management within the school district.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-01-28-minutes.txt)
+
+## 2013-09-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes detail routine administrative matters and highlight the district's focus on several key areas.  The board approved a consent agenda encompassing various agreements with local organizations, including Bellingham Technical College for the Running Start program and Opportunity Council for Early Learning & Family Services. 
+
+Dr. Baker, the Superintendent, reported visiting all 22 schools and addressing enrollment issues during the first week of school. He also mentioned initiating collective bargaining conversations with the Bellingham Education Association (BEA).  The board received updates on Birchwood Elementary School construction progress and reviewed a Bond Fact Sheet outlining district financial plans. The meeting concluded with a positive assessment from Ms. Hackler, reflecting a generally productive session focused on operational efficiency and community partnerships.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-09-12-minutes.txt)
+
+## 2013-07-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The school board meeting minutes detail discussions regarding staff treatment, compensation, and evaluation in light of the Washington State Teacher and Principal Evaluation Project (TPEP).  The board confirmed the superintendent's compliance with monitoring report EL-4 concerning compensation and evaluation. There was also a discussion about ensuring consistency in meeting High Challenge Learners (HCL) needs at the middle school level. The board reviewed and accepted monitoring report EL-6 regarding academic standards and practices, confirming the superintendent's compliance.  The superintendent announced updated budget numbers and shared information about the Starting Strong Symposium for Early Learning, where he will be the keynote speaker.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-07-16-minutes.txt)
+
+## 2013-06-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting focused on the preliminary budget for the 2013-2014 school year. Ron Cowan presented the report, highlighting key assumptions such as no program or staffing reductions and stable enrollment. Adjustments to the preliminary budget will be made once the state finalizes its budget.  The board also discussed ongoing hiring and budget refinement efforts. Dr. Michael Copland was introduced as the new Deputy Superintendent, replacing Tom Venable who is resigning to become Superintendent of the Methow School District. The meeting included reports from school board directors on their recent activities, including attending graduation ceremonies and community events.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-06-27-minutes.txt)
+
+## 2013-05-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes highlight several key areas of focus.  The board discussed the growth and inclusivity of Advanced Placement programs at Squalicum High School, receiving positive feedback from both visiting teachers and student tour guides. Additionally, Scott Stockburger reported on his visit to Sehome High School, praising innovative efforts like anchor homerooms and student mentorship programs. Superintendent Greg Baker provided updates on statewide testing, ongoing staffing processes for the 2013-14 school year, and the district's budget process, noting positive community feedback.  Discussions regarding facilities planning for Parkview Elementary School and the potential inclusion of the Gordon Carter Environmental Site in an upcoming bond were also mentioned. The board emphasized the importance of community engagement and parental feedback throughout these processes.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-05-23-minutes.txt)
 
 ## 2013-03-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

@@ -2,9 +2,7 @@
 
 ## 2024-09-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions and votes on various positions. Notably, the board voted against "Climate Impact Mitigation Assistance" and "Ample Funded Staffing Levels," while approving "African American Studies Work Group" and "Native American Instructional Materials."  The board also rejected "Mental Health Supports and Counseling," indicating a potential lack of prioritization for student well-being.  
-
-Additionally, the minutes reveal Director Brar's concerns regarding fairness in girls' sports, suggesting a possible stance against transgender participation. The board's decision to not support "Decision-Making Process" further highlights potential disagreements within the board regarding transparency and inclusivity in policymaking.
+The school board meeting minutes detail discussions and votes on various positions. Notably, the board voted against "Ample Funded Staffing Levels," suggesting potential staffing shortages.  They also approved a position opposing the establishment of an "African American Studies Work Group," but supported a position regarding "Mental Health Supports and Counseling."  The minutes highlight Director Brar's inquiries about specific policies and legislative support for girls' sports fairness, indicating potential concerns around equity in athletics.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-19-minutes.txt)
 
@@ -22,12 +20,6 @@ The school board agenda focuses on several key items related to diversity and in
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-agenda.txt)
 
-## 2024-05-02 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School Board meeting minutes detail several policy changes and discussions related to racial equity.  The board approved updated Policy 2124 - Equivalency Credit Opportunities, though the specific amendments are not mentioned. Notably, they amended Policy 2413 by removing the phrase "to ensure cultural responsiveness and equity in awarding mastery-based credit" from its first sentence. The reasoning behind this removal is not stated in the provided text.  The board also approved an Interlocal Agreement with Whatcom County Detention Center for 2024/2025 and Resolution #06-24, renewing WIAA Membership for the 2024/2025 school year. Additionally, they authorized their legislative committee to revise and submit revisions on a "Local Control" proposal to WSSDA.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-02-minutes.txt)
-
 ## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board reviewed a report on student outcomes, focusing on graduation rates and the impact of Career and Technical Education (CTE) programs.  The board expressed satisfaction with narrowing graduation gaps between Hispanic/Latinx and non-Hispanic/Latinx students, as well as low-income students. They also commended the growth of CTE programs for their ability to engage diverse student interests. However, concerns were raised about the widening gap in graduation rates for multilingual learners. The report highlighted income as a significant contributor to graduation rate disparities.  The board discussed the potential impact of COVID-19 on standardized test scores and expressed optimism for future improvement. They also acknowledged the district's commitment to addressing proficiency gaps and closing achievement disparities.
@@ -36,7 +28,7 @@ The Bellingham School Board reviewed a report on student outcomes, focusing on g
 
 ## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions and votes on various policies and proposals. Notably, the board considered a new position regarding unfunded mandates, ultimately deciding to "actively oppose" them. They also reviewed and approved an amended WSSDA Equity Statement, though motions related to diversity were not seconded and therefore did not pass.  The board adopted Policy 2415, establishing a Performance-Based Pathway for High School Graduation. No action was taken on Policy 3421 regarding Child Abuse & Neglect. The meeting concluded with an executive session concerning the purchase or sale of real estate.
+The school board meeting minutes detail discussions and votes on several policy matters.  The board considered and approved a new position for submission to the Washington State School Directors' Association (WSSDA) regarding unfunded mandates. They also voted to adopt Policy 2415, "Performance-Based Pathway for High School Graduation."  A motion to approve an amended WSSDA Equity Statement failed due to lack of a second. A motion to approve an amended WSSDA position on diversity also failed due to lack of a second. The board will review the Board Handbook and Policy 1220 during their upcoming retreat.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-04-minutes.txt)
 

@@ -1,5 +1,71 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2013
 
+## 2013-10-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+This document details investment activity across various school funds (General Fund, Capital Projects, Debt Service Fund, ASB Fund, Transportation Vehicle Fund, and Private Purpose Fund) for the period between September 6th and October 4th, 2013. The investments are categorized by fund type and include both withdrawals and deposits. Notably, a significant withdrawal of $228,500 from the General Fund is recorded on October 4th.  The document also references Resolution 13-88 (October 2013), which likely governs investment practices for the school district. The context suggests this resolution may have been subject to recent changes or discussion as it is presented as a "Consent Item" requiring action by the School Board.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-10-15-minutes.txt)
+
+## 2013-09-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+This transcript details a school board meeting focused on feedback from parents of special education students.  A recurring theme is the need for increased support and resources for these students. Parents expressed concerns about inflexible high school schedules, limited inclusion in general education classrooms, transportation challenges, and a lack of Spanish-speaking staff at the high school level. They also advocated for more training for paraeducators, improved accessibility on playgrounds, and greater access to enrichment activities.
+
+The meeting highlighted a desire for increased transparency and communication regarding Individualized Education Plans (IEPs), with one parent reporting feeling pressured to sign an IEP without adequate review or understanding of their rights.  Parents also emphasized the importance of early intervention and identification of disabilities, suggesting collaboration with community partners like Western Washington University to address assistive technology needs. The school board acknowledged these concerns and committed to a collective effort reflected in "The Bellingham Promise" to improve support for special education students.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-09-26-minutes.txt)
+
+## 2013-09-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes detail routine administrative matters and highlight the district's focus on several key areas.  The board approved a consent agenda encompassing various agreements with local organizations, including Bellingham Technical College for the Running Start program and Opportunity Council for Early Learning & Family Services. 
+
+Dr. Baker, the Superintendent, reported visiting all 22 schools and addressing enrollment issues during the first week of school. He also mentioned initiating collective bargaining conversations with the Bellingham Education Association (BEA).  The board received updates on Birchwood Elementary School construction progress and reviewed a Bond Fact Sheet outlining district financial plans. The meeting concluded with a positive assessment from Ms. Hackler, reflecting a generally productive session focused on operational efficiency and community partnerships.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-09-12-minutes.txt)
+
+## 2013-08-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes detail the board's review and approval process for a monitoring report (5.1.2) related to Executive Limitations.  The report was compiled based on feedback from board members collected through a Google Survey. Notably, the board accepted minor formatting changes suggested by Dr. Gass, including removing the term "Means" as a descriptor for Executive Limitations. The meeting also included a section for Board Assessment of Meeting where Dr. Stockburger rated the meeting 4.5 out of 5.  Finally, the minutes conclude with a list of school adoptions by individual board members.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-08-22-minutes.txt)
+
+## 2013-08-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board met in a special session on August 8, 2013, to discuss various agenda items for the upcoming school year. Notably, they expressed a desire to hold study sessions on topics related to diversity and inclusion, including the ACE (Adverse Childhood Experiences) Study, the Teacher/Principal Evaluation Project (TPEP), Common Core standards, and Ends 2.1 and 3.  The board also planned linkage meetings focused on supporting diverse student populations, specifically mentioning Special Education, English Language Learners (ELL), and LGBTQ students.
+
+Further demonstrating a commitment to community engagement, the board discussed ways to enhance technology at board meetings for better communication with attendees and reviewed preferred methods of receiving routine and urgent messages. They also deliberated on the Superintendent's evaluation, incorporating specific strategic initiatives into the process.  Finally, the board addressed policy changes related to communications and calendaring (GP 8.1.3) and considered continuing with BoardDocs Pro for document management in the 2013-14 school year.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-08-08-minutes.txt)
+
+## 2013-07-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The school board meeting minutes detail discussions regarding staff treatment, compensation, and evaluation in light of the Washington State Teacher and Principal Evaluation Project (TPEP).  The board confirmed the superintendent's compliance with monitoring report EL-4 concerning compensation and evaluation. There was also a discussion about ensuring consistency in meeting High Challenge Learners (HCL) needs at the middle school level. The board reviewed and accepted monitoring report EL-6 regarding academic standards and practices, confirming the superintendent's compliance.  The superintendent announced updated budget numbers and shared information about the Starting Strong Symposium for Early Learning, where he will be the keynote speaker.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-07-16-minutes.txt)
+
+## 2013-06-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting focused on the preliminary budget for the 2013-2014 school year. Ron Cowan presented the report, highlighting key assumptions such as no program or staffing reductions and stable enrollment. Adjustments to the preliminary budget will be made once the state finalizes its budget.  The board also discussed ongoing hiring and budget refinement efforts. Dr. Michael Copland was introduced as the new Deputy Superintendent, replacing Tom Venable who is resigning to become Superintendent of the Methow School District. The meeting included reports from school board directors on their recent activities, including attending graduation ceremonies and community events.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-06-27-minutes.txt)
+
+## 2013-06-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District is considering a bond proposal to fund several facility improvements. These include updating the District Office and Transportation Facility, building a central kitchen for healthier meals, and funding outdoor learning experiences at the Gordon Carter Environmental Education Conservation Site.  The proposed bond would result in an estimated tax rate increase of 48 cents per $1,000 assessed value. The district also plans to refinance existing bonds to save taxpayers money. The school board discussed the bond proposal and its potential impact on the community during a meeting on June 13, 2013.  The bond resolution will be prepared for the next meeting on June 27, 2013.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-06-13-minutes.txt)
+
+## 2013-05-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes highlight several key areas of focus.  The board discussed the growth and inclusivity of Advanced Placement programs at Squalicum High School, receiving positive feedback from both visiting teachers and student tour guides. Additionally, Scott Stockburger reported on his visit to Sehome High School, praising innovative efforts like anchor homerooms and student mentorship programs. Superintendent Greg Baker provided updates on statewide testing, ongoing staffing processes for the 2013-14 school year, and the district's budget process, noting positive community feedback.  Discussions regarding facilities planning for Parkview Elementary School and the potential inclusion of the Gordon Carter Environmental Site in an upcoming bond were also mentioned. The board emphasized the importance of community engagement and parental feedback throughout these processes.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-05-23-minutes.txt)
+
+## 2013-05-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes detail discussions on various topics. Notably, the board unanimously approved a revised GP-12 policy regarding "Cost of Governance."  The meeting also highlighted community engagement efforts, with Dr. Baker attending meetings with the Parkview Elementary School PTA and receiving feedback from homeschooling families. Additionally, several board members reported on their participation in events focused on student well-being and support, including a Hungry Minds breakfast and training sponsored by Adverse Childhood Experiences Study (ACES) aimed at better supporting students. The board also acknowledged positive feedback regarding transparency during the Larrabee Elementary School public hearing process.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-05-09-minutes.txt)
+
 ## 2013-05-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board held a public hearing on May 8, 2013, to discuss the potential closure of Larrabee Elementary School.  The discussion centered around community sentiment regarding the school's value and the impact its closure would have on students and families. Several speakers emphasized the importance of small neighborhood schools like Larrabee, citing benefits such as a sense of community and increased accountability. Concerns were raised about the potential disruption to students if the school were to close, with some suggesting waiting until a suitable alternative facility was available. The board acknowledged the passionate feedback received from parents and community members through written submissions and the Listening Post platform. They committed to carefully considering all input before making a final decision at their regular meeting on May 9th, 2013.

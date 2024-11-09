@@ -57,3 +57,6 @@
 - [critical-race-theory](tag_critical-race-theory.md)
 - [book-access](tag_book-access.md)
 - [inclusive-sex-education](tag_inclusive-sex-education.md)
+- [staff-treatment](tag_staff-treatment.md)
+- [compensation](tag_compensation.md)
+- [evaluation](tag_evaluation.md)
