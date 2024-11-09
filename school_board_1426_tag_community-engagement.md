@@ -1,10 +1,4 @@
-# Meeting Summaries for Tag: student-health
-
-## 2024-07-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The school board meeting addressed several routine matters and policy updates.  The board approved a consent agenda covering items such as the review of the Board of Directors' Budget and the receipt of revised policies. These included Policy 2140 Comprehensive School Counseling Program, Policy 2145 Suicide Prevention, and Policy 3245 Students and Telecommunication Devices.  Specific changes made to these policies were not detailed in the provided text. During the sharing portion of the meeting, board members highlighted the importance of teachers and community support for schools. The board also conducted a meeting evaluation, with Mr. Machado providing an overall rating of 4.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-07-30-minutes.txt)
+# Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: community-engagement
 
 ## 2024-04-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -29,6 +23,16 @@ Additionally, Director of Teaching and Learning Adrienne Somera presented Eureka
 The Meridian School District #505 held a regular school board meeting on January 24, 2024.  The meeting covered a range of topics including curriculum and policy updates. The board reviewed and approved the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work. Three new policies were introduced for first reading: Policy and Procedure 4260F - Use of School Facilities, Policy 5005 - Employment and Volunteers: Disclosures, Certification Requirements, Assurances and Approval, and Policy 5280 - Separation from Employment. These will be revisited at the February 7th meeting for second review and potential approval.  The board also appointed Michelle Simmons as the Legislative Representative and Jana Haugen as the WIAA Board Representative. During the superintendent's report, Dr. Everett highlighted the maintenance team's efforts during recent weather events, a partnership opportunity with UW AmplifyLearn.AI, and upcoming events like the replacement levy election. Student representative Kennedy Brzozowski reported on the student advisory council's focus on wellness and principal interviews.  Several board directors shared positive feedback about attending the Share Fair at MP3.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-24-minutes.txt)
+
+## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular board meeting on January 10, 2024.  The meeting included an executive session for reviewing the performance of a public employee, followed by a reconvened regular meeting. The agenda covered standard topics such as approval of minutes, personnel reports, and accounts payable.
+
+Recognition was given to the school board and Meridian Middle School staff. Reports were presented on school data, including PLC presentations from MMS Social Studies and IRE fourth grade teams. There was no public comment. 
+
+The board reviewed proposed changes to MSD Board Operating Protocols and the Revised 2023-24 Plan of Work for a first reading, with final approval scheduled for the January 24th meeting. The Superintendent's report covered district activities, including Winter Wishes, training, leadership changes, and budget considerations.  The need for board directors to serve as Legislative Representative and WIAA Representative was also discussed. Student representatives provided updates on their participation in Winter Wishes events. Finally, a board member shared information about upcoming athletic games. The meeting adjourned at 7:33 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-10-minutes.txt)
 
 ## 2023-12-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 

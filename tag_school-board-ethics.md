@@ -122,6 +122,12 @@ This document outlines the minutes from a school board meeting. Several routine 
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-04-30-minutes.txt)
 
+## 2024-04-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on April 24, 2024.  The meeting covered routine items such as approval of minutes, accounts payable, personnel reports, and donations. Several new policies were introduced for a first reading, including Policy and Procedure 4001 - Public Information Program, Policy and Procedure 4040 – Public Access to District Records, and Policy and Procedure 4060 – Distribution of Information. These policies will be reviewed again at the May 8th meeting. The board also reviewed a Sendan Center Contract for the first time.  The Finance Director presented a budget update report and an overview of the 2024-25 budget process. There was no public comment or information shared from student representatives or board directors. The meeting adjourned at 7:38 pm.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-24-minutes.txt)
+
 ## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board of Directors met on April 13, 2024 to discuss various topics related to district operations and student outcomes.  The board reviewed data on Key Performance Indicators including 3rd Grade Reading, Multilingual Learner Language Proficiency Progress, Attendance, 9th Grade Success, Graduation Rates, and Parent Climate Surveys. They also discussed the strategic planning process and timeline for updating the district's Strategic Plan and Priorities. Additionally, the board reviewed the results of a self-assessment conducted by WSSDA (Washington State School Directors' Association) and discussed ways to improve responsible governance and effective board leadership. Finally, the board discussed the process for developing board meeting agendas and reviewed relevant policies.
@@ -164,6 +170,18 @@ The school board meeting minutes detail the approval of a new Technology Policy 
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-02-27-minutes.txt)
 
+## 2024-02-21 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The agenda outlines a regular meeting and board work session for the school district on February 21, 2024. Key discussion points include Resolution 01-24: OSPI 180 Day Waiver, which will be presented for initial review and subsequently brought back for approval on March 6, 2024. This resolution likely concerns a waiver request from the Office of Superintendent of Public Instruction (OSPI) regarding the standard 180-day school year requirement. Additionally, the agenda includes information about a partnership opportunity with the University of Washington focused on leveraging generative AI to enhance mathematics instruction through their Amplify Learn initiative. The Superintendent will also deliver a report on district activities.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-21-agenda.txt)
+
+## 2024-02-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District held a regular school board meeting on February 21, 2024.  The agenda included a work session on the WSSDA Board Bootcamp and several policy readings for first review.  These policies included Policy and Procedure 5271 – Reporting Improper Governmental Action, Policy and Procedure 5282 - Civility, Policy 6111 - Tuition, and the 2024-2027 School Year Calendars. Resolution 01-24: OSPI 180 Day Waiver was also presented for first review. The board discussed opposition to HB 5462 and ESHB 2331 and scheduled a special session meeting to continue the discussion.  The Superintendent provided updates on community support for the levy election, his involvement with AASA, and upcoming advocacy opportunities. Student Board Representatives shared insights about their participation in principal interviews and Superintendent Advisory Council meetings.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-21-minutes.txt)
+
 ## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail discussions on various topics, including legislative advocacy, board meeting logistics and communication improvements. Director Hickman emphasized the importance of community engagement regarding local control bills and shared information about an upcoming town hall meeting with local legislators. Superintendent VanderYacht highlighted the need for transparency in discussing board positions on specific bills and suggested focusing on policy content before addressing writing conventions. The board also discussed incorporating particular details and action items into meeting minutes, following Robert's Rules of Order.  Additional topics included post-Bond Planning Task Force needs such as impact fees, playground and technology upgrades, and construction delivery methods. The board expressed interest in revisiting Key Performance Indicators in greater depth and discussed the legalities of individual board members expressing personal opinions on social media regarding ballot initiatives and legislative bills.
@@ -193,6 +211,26 @@ The Lynden School District #504 Board of Directors held a special meeting on Feb
 The school board agenda focuses on reviewing monitoring reports for various policies and discussing the superintendent's compliance.  Specifically, they will address EL-7 (Budget Planning and Execution), EL-9 (Asset Maintenance and Protection), and EL-9.1 (Facility Improvement or Development Involving Bond Measure Proposal). Additionally, the board will review an updated annual agenda (GP-7.2) for informational purposes. The meeting also includes time for school board directors' reports and a final assessment of the meeting itself.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-01-18-agenda.txt)
+
+## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The MSD school board agenda outlines a meeting focused on reviewing and potentially approving updated policies and plans.  Two key items are the "MSD Board Operating Protocols" and the "2023-24 MSD Board Yearly Plan of Work". Both will undergo a first review at the January 10th meeting and are scheduled for a second review and potential approval on January 24th. The Superintendent will also deliver a report on district activities.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-10-agenda.txt)
+
+## 2024-01-03 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The Bellingham School Board has scheduled a special meeting on January 3, 2024, to address several agenda items.  The meeting will begin with procedural matters such as calling the meeting to order and adopting the agenda. Following this, the board will consider a consent agenda item regarding Accounts Payable.  
+
+The bulk of the meeting will be dedicated to a work session focused on "WSSDA Roles and Responsibilities Training" facilitated by Amy Cart, Northshore Board President. This training likely aims to educate board members on their respective roles and responsibilities within the Washington State School Directors' Association (WSSDA). The meeting concludes with a summary discussion of the work session followed by adjournment.  The agenda indicates that public attendance is encouraged.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-03-agenda.txt)
+
+## 2024-01-03 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a special meeting and work session on January 3rd, 2024.  The board reviewed the consent agenda which included accounts payable. During the work session, the board discussed WSSDA Roles and Responsibilities, likely referring to the Washington State School Directors' Association. The text does not provide details about specific policy changes or resolutions considered during the meeting.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-03-minutes.txt)
 
 ## 2022-11-18 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 

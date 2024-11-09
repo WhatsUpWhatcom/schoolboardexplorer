@@ -172,6 +172,14 @@ The Lynden School District #504 Board is holding a retreat on April 13, 2024, to
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-agenda.txt)
 
+## 2024-04-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on April 10, 2024.  The agenda included several items related to curriculum and policy updates. The board reviewed and adopted Eureka Math² and Adíos Textbook as new curriculum materials. They also approved Policy and Procedure 2121 (substance abuse), Policy and Procedure 3122 (harassment, intimidation and bullying) and Policy and Procedure 4230 (emergency preparedness).  
+
+The board discussed and approved several resolutions including Emergency Repair Resolution 02-24 and Resolution 03-24 - Emergency Declaration and Waiving Bid Laws. The purpose of these resolutions was not explicitly stated in the provided text. Additionally, a first review was conducted for the BTC Admission Data Sharing Interlocal Agreement, which will be brought back for final approval at the next meeting.  The superintendent provided an update on budget work, the approval of a 180-day waiver day application and maintenance updates.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-10-minutes.txt)
+
 ## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
 The Lynden School District Board Meeting agenda focuses on several key areas. Firstly, it highlights the district's commitment to "Mental Health" with mentions of a Youth Mental Health First Aid course and a community viewing of the film "Screenagers," which addresses technology's impact on youth development.  Secondly, the agenda promotes "Social-Emotional Learning" through events like the Lynden Middle School Chess Club hosting a competition with local first responders. The meeting also touches upon "School Safety" by including an item on building leadership teams collaborating around Multi Tiered Systems of Support (MTSS) and Universal Design for Learning.
@@ -205,6 +213,16 @@ The Lynden School District Board meeting minutes detail discussions on various t
 The board reviewed updated academic standards reflected in Policy 5005- Employment and Volunteers, which was approved. Discussions also centered around long-term strategic plans, including capital facilities planning and the possibility of putting a bond back out to vote. The board aimed to finalize a timeline for the bond resolution by their April 18th meeting. Community engagement was evident through presentations from representatives of Schooley Mitchell and discussions regarding retiree celebrations initiated by a board member.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-21-minutes.txt)
+
+## 2024-03-20 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on March 20, 2024.  The meeting covered a range of topics including curriculum adoption, policy reviews and updates, and financial reports. 
+
+The board conducted first reviews of several proposed policies: Policy and Procedure 2121 – Substance Abuse Program, Policy and Procedure 3116 - Students in Foster Care, and Policy and Procedure 3225 - School Based Threat Assessment. These policies will be brought back for a second review and potential approval at the April 10, 2024 meeting.
+
+Additionally, Director of Teaching and Learning Adrienne Somera presented Eureka Math² and Adíos Textbook curriculum materials for a first review as part of a core curriculum adoption process. This will also be revisited at the April meeting. The board received a finance report from Daniel Yorton, covering March enrollment figures, updates on the annual audit, and the district's financial status. Dr. Everett, the superintendent, provided an update on recent events and encouraged nominations for the MSD Thrive Awards.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-20-minutes.txt)
 
 ## 2024-03-06 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
@@ -304,17 +322,39 @@ The Lynden School Board meeting minutes detail discussions on several key topics
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-25-minutes.txt)
 
+## 2024-01-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on January 24, 2024.  The meeting covered a range of topics including curriculum and policy updates. The board reviewed and approved the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work. Three new policies were introduced for first reading: Policy and Procedure 4260F - Use of School Facilities, Policy 5005 - Employment and Volunteers: Disclosures, Certification Requirements, Assurances and Approval, and Policy 5280 - Separation from Employment. These will be revisited at the February 7th meeting for second review and potential approval.  The board also appointed Michelle Simmons as the Legislative Representative and Jana Haugen as the WIAA Board Representative. During the superintendent's report, Dr. Everett highlighted the maintenance team's efforts during recent weather events, a partnership opportunity with UW AmplifyLearn.AI, and upcoming events like the replacement levy election. Student representative Kennedy Brzozowski reported on the student advisory council's focus on wellness and principal interviews.  Several board directors shared positive feedback about attending the Share Fair at MP3.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-24-minutes.txt)
+
 ## 2024-01-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This text focuses on a school board's review of a report detailing progress towards the district's long-term facilities plan. The plan is explicitly designed to prioritize equity and align with "The Bellingham Promise," which suggests a commitment to racial equity within the district.  Board members commend the superintendent for robust community engagement in the planning process, highlighting diverse representation on the Facilities Planning Task Force. While no areas for improvement are identified, the board discusses a proposed policy change (EL-9.1) to remove the requirement that updates be presented through the consent agenda, allowing for greater flexibility in communication.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-01-18-minutes.txt)
 
+## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular board meeting on January 10, 2024.  The meeting included an executive session for reviewing the performance of a public employee, followed by a reconvened regular meeting. The agenda covered standard topics such as approval of minutes, personnel reports, and accounts payable.
+
+Recognition was given to the school board and Meridian Middle School staff. Reports were presented on school data, including PLC presentations from MMS Social Studies and IRE fourth grade teams. There was no public comment. 
+
+The board reviewed proposed changes to MSD Board Operating Protocols and the Revised 2023-24 Plan of Work for a first reading, with final approval scheduled for the January 24th meeting. The Superintendent's report covered district activities, including Winter Wishes, training, leadership changes, and budget considerations.  The need for board directors to serve as Legislative Representative and WIAA Representative was also discussed. Student representatives provided updates on their participation in Winter Wishes events. Finally, a board member shared information about upcoming athletic games. The meeting adjourned at 7:33 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-10-minutes.txt)
+
 ## 2024-01-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
 The Bellingham Public Schools Board of Directors will be visiting Northern Heights Elementary School on January 9th, 2024 at 7:30 am. This visit is part of the board's regular practice of visiting schools throughout the year to assess how each school is fulfilling "The Bellingham Promise."  This is not a formal meeting and will not include public comment time. The purpose of the visit is informational and focused on understanding the implementation of educational practices at the elementary school level.
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-01-09-agenda.txt)
+
+## 2023-12-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held its regular school board meeting on December 13, 2023.  The meeting included routine agenda items such as approval of meeting minutes, personnel reports, and payment authorizations. Notably, the board recognized outgoing directors Sara Bernardy and Craig Mitchell and welcomed newly elected directors Marty Gray, Jana Haugen, and Michelle Simmons. The board also elected Steve Corwin as president and Jarrod Karuza as vice president.  Reports were given on transportation updates, facilities recommendations, and a Youth Care Services Contract was approved. Superintendent Dr. James Everett provided an update on his work with various community organizations and upcoming training opportunities. Student Board Representatives Morgan Adams and Kennedy Brzozowski shared information about the superintendent advisory council meetings and their planned presentation on community and district resources.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-12-13-minutes.txt)
 
 ## 2022-12-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 

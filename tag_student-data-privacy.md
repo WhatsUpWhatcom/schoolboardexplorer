@@ -6,6 +6,16 @@ The Bellingham School Board reviewed a report on student outcomes, focusing on g
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
 
+## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular board meeting on January 10, 2024.  The meeting included an executive session for reviewing the performance of a public employee, followed by a reconvened regular meeting. The agenda covered standard topics such as approval of minutes, personnel reports, and accounts payable.
+
+Recognition was given to the school board and Meridian Middle School staff. Reports were presented on school data, including PLC presentations from MMS Social Studies and IRE fourth grade teams. There was no public comment. 
+
+The board reviewed proposed changes to MSD Board Operating Protocols and the Revised 2023-24 Plan of Work for a first reading, with final approval scheduled for the January 24th meeting. The Superintendent's report covered district activities, including Winter Wishes, training, leadership changes, and budget considerations.  The need for board directors to serve as Legislative Representative and WIAA Representative was also discussed. Student representatives provided updates on their participation in Winter Wishes events. Finally, a board member shared information about upcoming athletic games. The meeting adjourned at 7:33 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-10-minutes.txt)
+
 ## 2013-06-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District is considering a bond proposal to fund several facility improvements. These include updating the District Office and Transportation Facility, building a central kitchen for healthier meals, and funding outdoor learning experiences at the Gordon Carter Environmental Education Conservation Site.  The proposed bond would result in an estimated tax rate increase of 48 cents per $1,000 assessed value. The district also plans to refinance existing bonds to save taxpayers money. The school board discussed the bond proposal and its potential impact on the community during a meeting on June 13, 2013.  The bond resolution will be prepared for the next meeting on June 27, 2013.

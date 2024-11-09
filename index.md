@@ -4,6 +4,7 @@
 - [BELLINGHAM_PUBLIC_SCHOOLS](school_board_1.md)
 - [LYNDEN_SCHOOL_DISTRICT](school_board_201.md)
 - [FERNDALE_SCHOOL_DISTRICT](school_board_879.md)
+- [MERIDIAN_SCHOOL_DISTRICT](school_board_1426.md)
 
 ## Summaries by Tag
 - [school-board-visit](tag_school-board-visit.md)
@@ -64,3 +65,4 @@
 - [school-finance](tag_school-finance.md)
 - [mission-statement](tag_mission-statement.md)
 - [student-health](tag_student-health.md)
+- [contract](tag_contract.md)

@@ -50,6 +50,12 @@ The Bellingham School District Board of Directors held a visit to Alderwood Elem
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-05-07-minutes.txt)
 
+## 2024-04-24 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The April 24, 2024 school board meeting agenda includes several items.  The board will conduct a first review of the Sendan Center contract with a second review and approval scheduled for the May 8th meeting. Daniel Yorton, Director of Finance, will present a financial update report to the board. He will also share an update on the 2024-25 budget process alongside Assistant Superintendent Kurt Harvill.  The agenda also includes time for information from student board representatives and board directors. The meeting concludes with the signature of official documents and adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-24-agenda.txt)
+
 ## 2024-04-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Squalicum High School on April 16, 2024.  The meeting focused on student leadership opportunities and the positive culture at Squalicum High School. Students shared stories about their experiences and what they appreciated about the school environment. The visit highlighted the importance of student voice and autonomy within the school community. Additionally, the presence of both students and staff suggests a commitment to community engagement and fostering a safe and supportive learning environment.

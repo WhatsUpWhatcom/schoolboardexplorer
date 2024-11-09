@@ -74,6 +74,12 @@ This text focuses on a school board's review of a report detailing progress towa
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-01-18-minutes.txt)
 
+## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The MSD school board agenda outlines a meeting focused on reviewing and potentially approving updated policies and plans.  Two key items are the "MSD Board Operating Protocols" and the "2023-24 MSD Board Yearly Plan of Work". Both will undergo a first review at the January 10th meeting and are scheduled for a second review and potential approval on January 24th. The Superintendent will also deliver a report on district activities.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-10-agenda.txt)
+
 ## 2022-10-01 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
 The Lynden School Board is holding a retreat on October 1st, 2022 at The Inn at Lynden.  The agenda focuses on reviewing the existing 2021-2024 Strategic Priorities and discussing improvements to Board Operations. This meeting suggests a focus on long-term planning and internal organizational efficiency for the school board.

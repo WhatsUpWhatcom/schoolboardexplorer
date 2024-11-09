@@ -1,10 +1,4 @@
-# Meeting Summaries for Tag: student-health
-
-## 2024-07-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The school board meeting addressed several routine matters and policy updates.  The board approved a consent agenda covering items such as the review of the Board of Directors' Budget and the receipt of revised policies. These included Policy 2140 Comprehensive School Counseling Program, Policy 2145 Suicide Prevention, and Policy 3245 Students and Telecommunication Devices.  Specific changes made to these policies were not detailed in the provided text. During the sharing portion of the meeting, board members highlighted the importance of teachers and community support for schools. The board also conducted a meeting evaluation, with Mr. Machado providing an overall rating of 4.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-07-30-minutes.txt)
+# Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: school-safety
 
 ## 2024-04-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -24,11 +18,27 @@ Additionally, Director of Teaching and Learning Adrienne Somera presented Eureka
 
 [View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-20-minutes.txt)
 
-## 2024-01-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-03-20 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District #505 held a regular school board meeting on January 24, 2024.  The meeting covered a range of topics including curriculum and policy updates. The board reviewed and approved the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work. Three new policies were introduced for first reading: Policy and Procedure 4260F - Use of School Facilities, Policy 5005 - Employment and Volunteers: Disclosures, Certification Requirements, Assurances and Approval, and Policy 5280 - Separation from Employment. These will be revisited at the February 7th meeting for second review and potential approval.  The board also appointed Michelle Simmons as the Legislative Representative and Jana Haugen as the WIAA Board Representative. During the superintendent's report, Dr. Everett highlighted the maintenance team's efforts during recent weather events, a partnership opportunity with UW AmplifyLearn.AI, and upcoming events like the replacement levy election. Student representative Kennedy Brzozowski reported on the student advisory council's focus on wellness and principal interviews.  Several board directors shared positive feedback about attending the Share Fair at MP3.
+The school board agenda includes a first reading of Policy and Procedure 3225 - School Based Threat Assessment. This policy will be reviewed again for approval at the April 10, 2024 Board meeting.  The agenda also lists a Finance Report presentation by Director of Finance, Daniel Yorton covering financial updates, enrollment figures compared to budget and previous months, and an audit status update.
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-20-agenda.txt)
+
+## 2024-03-06 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a joint work session and regular school board meeting on March 6, 2024.  The meeting included presentations from various departments highlighting student progress in PLC reports for Art, First Grade Writing, and Middle School Science. Additionally, the MHS Principal provided updates on accreditation, graduation rates, and the CTE program. The Board reviewed and approved several policies including Policy and Procedure 5271 – Reporting Improper Governmental Action, Policy and Procedure 5282 - Civility, Policy 6111 - Tuition, and the 2024-2027 School Year Calendars. They also approved Resolution 01-24: OSPI 180 Day Waiver.  Notably, the meeting included a discussion on school safety as part of the MHS School Report.  The Board addressed academic standards through PLC presentations demonstrating student progress and curriculum transparency by presenting the reviewed policies for public comment and approval.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-06-minutes.txt)
+
+## 2024-02-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board held a regular meeting on February 7, 2024.  The meeting included standard agenda items such as approval of consent agenda items (meeting minutes, accounts payable, payroll, personnel report, student travel, and addition of instructional materials committee members), recognition of students for their persuasive writing projects, and reports from Professional Learning Communities (PLCs) on kindergarten phonics, middle school math progress, high school biology standards, and elementary STEAM math focus.  
+
+The board reviewed and approved several policies including Policy and Procedure 4260F - Use of School Facilities, Policy 5005 - Employment and Volunteers: Disclosures, Certification Requirements, Assurances and Approval, and Policy 5280 - Separation from Employment. No specific details regarding the content changes within these policies were mentioned in the meeting minutes. The Superintendent also provided updates on weather-related waiver days, legislative platforms, and upcoming levy elections. Student board representatives shared information about their involvement in calendar committees and encouraging student voter participation. 
+
+The meeting concluded with an adjournment at 8:15pm.
+
+[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-07-minutes.txt)
 
 ## 2023-12-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
